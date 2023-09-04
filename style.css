@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #016FB9;
+    color: #042A2B;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    background-color: #22AED1B9;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav a {
+    color: #042A2B;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 2rem;
+}
+
+.formacion {
+    border: 1px solid #00FFC5;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.historial {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #00FFC5;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+.foto { margin-left: 45%;
+
+}
+
+.text {
+    text-align: center;
+}
